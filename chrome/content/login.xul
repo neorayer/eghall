@@ -1,0 +1,8 @@
+<?xml version="1.0"   encoding="UTF-8"?>
+<?xul-overlay href="http://hall.ko10000.com/GameHall2/u/hallXul/ol_page_login.jsp.vi?hall=ko1"?>
+<window
+	id="login-window"
+	title="KO竞技游戏平台"
+	xmlns:html="http://www.w3.org/1999/xhtml"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+	/>
